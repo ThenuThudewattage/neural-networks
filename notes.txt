@@ -1,0 +1,9 @@
+without using special neural network library
+
+types of artificial neurons:
+    percptron and sigmoid neurons
+
+standard learning algorithm:
+    stochastic gradient descent algorithm
+
+Perceptrons:
