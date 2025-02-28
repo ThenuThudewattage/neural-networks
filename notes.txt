@@ -7,3 +7,6 @@ standard learning algorithm:
     stochastic gradient descent algorithm
 
 Perceptrons:
+another type of artificial neuron is the perceptron, which is based on a different artificial neuron model. The perceptron is a simple model of a biological neuron. It has multiple binary inputs and a single binary output. The perceptron computes a weighted sum of its inputs and "fires" if that weighted sum is zero or greater. The perceptron's output is binary: it is 0 if the weighted sum is less than or equal to zero and 1 if the weighted sum is greater than zero. The perceptron can be used for learning simple concepts, such as linearly separable concepts.
+
+
